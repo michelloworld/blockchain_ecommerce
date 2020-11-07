@@ -1,6 +1,6 @@
 ### About the project
 
-Just a simple E-Commerce with Ethereum Smart contract.
+Just a simple E-Commerce written by Ethereum Smart contract & Reac.js
 
 ### How to run
 
